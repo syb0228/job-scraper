@@ -1,8 +1,13 @@
 # job-scraper
 
-- 개발 환경 : `Repl.it`
-- 주요 개발 언어 : `Python`
-- micro-framework : `Flask`
+## SKILLS
+- **Frontend**
+    - `html`
+- **Backend**
+    - `Python`
+    - `Flask`
+- **IDE** : `Repl.it`
+- **Database** : `fakeDB`
 
 <br>
 
